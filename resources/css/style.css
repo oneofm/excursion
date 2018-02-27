@@ -1,0 +1,31 @@
+h1{
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+a{
+  font-family: Verdana;
+  color: Aquamarine;
+  font-size: 16px;
+}
+div{
+  background-color: black;
+  text-align: center;
+}
+h2{
+  color:white;
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+p{
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+.copy{
+  color:gray;
+  text-align: right;
+}
